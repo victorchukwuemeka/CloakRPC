@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🕶️ CloakRPC
 
 > **Privacy for blockchain RPCs — prevent user deanonymization and metadata leaks.**
